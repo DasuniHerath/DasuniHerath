@@ -1,6 +1,6 @@
 ### Hi there 👋
-### 🌱 I’m currently learning computer engineering.
-### 📫 How to reach me: https://www.linkedin.com/in/dasuni-h-7a103121a/
+# 🌱 I’m currently learning computer engineering.
+# 📫 How to reach me: https://www.linkedin.com/in/dasuni-h-7a103121a/
 
 <!--
 **DasuniHerath/DasuniHerath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
