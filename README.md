@@ -1,18 +1,13 @@
 ### Hi there 👋
-#### 🌱 I’m currently learning computer engineering.
-#### 📫 How to reach me: https://www.linkedin.com/in/dasuni-h-7a103121a/
+🧑‍💻 **Computer Engineering Undergraduate**
+## 📫 How to Reach Me
+- Email: dasuninimesha99@gmail.com
+- LinkedIn:https://www.linkedin.com/in/dasuni-herath-7a103121a/
 
-<!--
-**DasuniHerath/DasuniHerath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏻‍💻 Languages and Tools
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning  computer engineering.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/dasuni-h-7a103121a/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
